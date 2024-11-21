@@ -8,16 +8,22 @@ Bu proje, oyuncuların 3D nesneleri (meyveler) alıp sürükleyerek belirli bir 
 HEDEFLER
 
 -Nesne Etkileşimi: Oyuncuların nesneleri fare veya dokunmatik ekranla alıp sürüklemesine olanak tanımak.
+
 -Dinamik Nesne Yerleştirme: Nesnelerin platforma düzgün bir şekilde yerleştirilmesini sağlamak.
+
 -Esneklik ve Özelleştirilebilirlik: Projenin kolayca genişletilebilir ve modüler olması için tekrar kullanılabilir scriptler sağlamak.
 
 
 GEREKSİNİMLER
 
 -Unity Editor (2020.3 veya sonrası önerilir)
+
 -3D modeller (meyve veya nesneler için)
+
 -Unity fizik sistemi ile gerçekçi etkileşimler
+
 -Nesne tespiti ve düzenleme için etiketler ve katmanlar
+
 
 Bu proje, Unity’nin fizik ve etkileşim sistemlerinin temellerini gösterir ve daha karmaşık mekanikler veya oyun senaryoları için bir temel sağlar.
 
