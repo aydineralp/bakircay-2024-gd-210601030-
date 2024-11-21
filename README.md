@@ -12,3 +12,6 @@ Unity Editor (2020.3 veya sonrası önerilir)
 Unity fizik sistemi ile gerçekçi etkileşimler
 Nesne tespiti ve düzenleme için etiketler ve katmanlar
 Bu proje, Unity’nin fizik ve etkileşim sistemlerinin temellerini gösterir ve daha karmaşık mekanikler veya oyun senaryoları için bir temel sağlar.
+
+
+https://www.youtube.com/watch?v=fs5QRPSZbnE
